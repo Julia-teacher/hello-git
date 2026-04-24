@@ -1,5 +1,5 @@
 Console.Write("Введите имя: ");
 string name = Console.ReadLine();
 Console.WriteLine($"Привет, {name}!");
-Console.Writleane("Привет")
+Console.Writеline("Привет") //исправлено
 Console.WriteLine("давай дружить!")
